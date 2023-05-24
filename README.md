@@ -12,7 +12,7 @@ Seja bem vindo ao teste para vaga de desenvolvedor .Net.
 
 Seu desafio será criar uma api rest a partir de um projeto inicial, porém sem controllers e classes, e nela você deverá também consumir uma Api publica utilizando HTTP client nativo.
 
-                     Neste projeto realizei o consumo da API pública do desenho Rick and Morty, aperta ai 👇🏾:
+                Neste projeto realizei o consumo da API pública do desenho Rick and Morty, aperta ai 👇🏾:
   
 <div> 
   <p align="center">

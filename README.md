@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Seja bem vindo ao teste para vaga de desenvolvedor .Net.
+Consumo de uma API pública, este projeto é para mero conhecimento, testando e explorando a linguagem C#.
 
 <div align="center">
 
@@ -10,9 +10,9 @@ Seja bem vindo ao teste para vaga de desenvolvedor .Net.
 
 </div>
 
-Seu desafio será criar uma api rest a partir de um projeto inicial, porém sem controllers e classes, e nela você deverá também consumir uma Api publica utilizando HTTP client nativo.
+A ideia era fazer um API sem controllers e classes, graças ao .NET core6 é possível economizar código para pequenos projetos sem precisar de inúmeras pastas e classes.
 
-           Neste projeto realizei o consumo da API pública do desenho Rick and Morty, aperta ai 👇🏾:
+                                                Aperta ai 👇🏾:
   
 <div> 
   <p align="center">
@@ -21,6 +21,4 @@ Seu desafio será criar uma api rest a partir de um projeto inicial, porém sem 
   </p>
 </div>
 
-Este teste testará suas habilidades em .NET, orientação a objetos e boas práticas de programação. Seja criativo(a) e boa sorte!
-
-<b> Valeu a Experiência 🤓 </b>
+<b> Ainda não está concluído 🤓 </b>

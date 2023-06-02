@@ -12,7 +12,7 @@ Consumo de uma API pública, este projeto é para mero conhecimento, testando e 
 
 A ideia era fazer um API sem controllers e classes, graças ao .NET core6 é possível economizar código para pequenos projetos sem precisar de inúmeras pastas e classes.
 
-                                                Aperta ai 👇🏾:
+<p align="center"> Aperta ai 👇🏾: </p>
   
 <div> 
   <p align="center">
